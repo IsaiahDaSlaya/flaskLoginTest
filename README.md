@@ -1,15 +1,5 @@
 
 
-# Login Extension for Flask
-
-The simplest way to add login to flask!
-
-## Top Contributors
-
-[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/0)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/0)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/1)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/1)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/2)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/2)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/3)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/3)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/4)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/4)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/5)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/5)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/6)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/6)[![](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/images/7)](https://sourcerer.io/fame/rochacbruno/rochacbruno/flask_simplelogin/links/7)
-
-Add yourself, send a PR!
-
 ## So why **Flask Simple Login**?
 
 Sometimes you need something **simple** for that small project or for
